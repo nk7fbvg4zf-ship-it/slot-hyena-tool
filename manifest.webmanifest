@@ -1,9 +1,1 @@
-{
-  "name": "ハイエナ判定 Ver.3",
-  "short_name": "ハイエナ判定",
-  "start_url": "./?v=3",
-  "display": "standalone",
-  "background_color": "#090b10",
-  "theme_color": "#090b10",
-  "lang": "ja"
-}
+{"name":"ハイエナ判定","short_name":"ハイエナ判定","start_url":"./","display":"standalone","background_color":"#0b0f15","theme_color":"#7157ff"}
