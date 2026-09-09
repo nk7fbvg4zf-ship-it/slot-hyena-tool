@@ -1,1 +1,9 @@
-const C='hyena-v4-2-setting-guide';const A=['./','./index.html','./manifest.webmanifest'];self.addEventListener('install',e=>e.waitUntil(caches.open(C).then(c=>c.addAll(A))));self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==C).map(k=>caches.delete(k))))));self.addEventListener('fetch',e=>e.respondWith(fetch(e.request).then(r=>{let x=r.clone();caches.open(C).then(c=>c.put(e.request,x));return r}).catch(()=>caches.match(e.request))));
+self.addEventListener('install',()=>self.skipWaiting());
+self.addEventListener('activate',e=>e.waitUntil((async()=>{
+  const ks=await caches.keys();
+  await Promise.all(ks.map(k=>caches.delete(k)));
+  await self.registration.unregister();
+  const cs=await self.clients.matchAll({type:'window'});
+  cs.forEach(c=>c.navigate(c.url));
+})()));
+self.addEventListener('fetch',()=>{});
