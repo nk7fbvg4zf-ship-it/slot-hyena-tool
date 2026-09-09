@@ -1,1 +1,9 @@
-{"name":"ハイエナ判定ツール","short_name":"ハイエナ判定","start_url":"./","display":"standalone","background_color":"#0b0d12","theme_color":"#0b0d12","lang":"ja"}
+{
+  "name": "ハイエナ判定 Ver.2",
+  "short_name": "ハイエナ判定",
+  "start_url": "./?v=2",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "lang": "ja"
+}
