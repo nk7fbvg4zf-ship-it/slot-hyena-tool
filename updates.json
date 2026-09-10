@@ -1,12 +1,19 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-10T20:00:00+09:00",
+  "updated_at": "2026-09-10T22:55:00+09:00",
   "items": [
     {
       "id": 1,
       "date": "2026-09-10",
       "machine": "Professional",
       "title": "解析アップデート確認機能を追加",
+      "source": "Professional"
+    },
+    {
+      "id": 2,
+      "date": "2026-09-10",
+      "machine": "Professional",
+      "title": "未確定情報を5段階の信頼度ラベル付きで表示する機能を追加",
       "source": "Professional"
     }
   ]
