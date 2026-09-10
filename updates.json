@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-10T23:05:00+09:00",
+  "updated_at": "2026-09-10T23:59:30+09:00",
   "items": [
     {
       "id": 1,
@@ -21,6 +21,41 @@
       "date": "2026-09-10",
       "machine": "Professional",
       "title": "各機種ページのG数入力から推定投資・必要時間・閉店判定を自動表示",
+      "source": "Professional"
+    },
+    {
+      "id": 4,
+      "date": "2026-09-10",
+      "machine": "Professional",
+      "title": "朝一専用枠・初当り後解除・状態別判定・設定1〜6/示唆詳細欄を追加",
+      "source": "Professional"
+    },
+    {
+      "id": 5,
+      "date": "2026-09-10",
+      "machine": "Professional",
+      "title": "朝一・駆け抜け・CZ/AT・設定4/5/6・示唆データを多数機種へ拡充",
+      "source": "Professional"
+    },
+    {
+      "id": 6,
+      "date": "2026-09-10",
+      "machine": "Professional",
+      "title": "状態別チェック・示唆ワンタップ記録・朝一判定表示・最新解析補完を追加",
+      "source": "Professional"
+    },
+    {
+      "id": 7,
+      "date": "2026-09-10",
+      "machine": "Professional",
+      "title": "全収録機種へ朝一・状態・設定/示唆の詳細枠を展開。データ充実度と台移動リセットも追加",
+      "source": "Professional"
+    },
+    {
+      "id": 8,
+      "date": "2026-09-10",
+      "machine": "Professional",
+      "title": "未確定でも具体値がある情報を信頼度付きで掲載する方式へ変更",
       "source": "Professional"
     }
   ]
