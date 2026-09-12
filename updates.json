@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-13T03:45:00+09:00",
+  "updated_at": "2026-09-13T04:00:00+09:00",
   "items": [
     {
       "id": 1,
@@ -140,6 +140,13 @@
       "date": "2026-09-13",
       "machine": "Professional",
       "title": "Ver.9.1 緊急修正: 空白画面・JS文字列露出を修正し、朝イチ設定判別カウンター関数も復元",
+      "source": "Professional"
+    },
+    {
+      "id": 21,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "Ver.9.2 緊急修正: 起動時ReferenceError(PRO_RICH未定義)を修正",
       "source": "Professional"
     }
   ]
