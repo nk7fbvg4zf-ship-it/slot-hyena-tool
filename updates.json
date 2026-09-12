@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-13T04:15:00+09:00",
+  "updated_at": "2026-09-13T04:25:00+09:00",
   "items": [
     {
       "id": 1,
@@ -154,6 +154,13 @@
       "date": "2026-09-13",
       "machine": "Professional",
       "title": "Ver.9.3 設定判別ボタンを新しい機種別設定判別フローへ接続",
+      "source": "Professional"
+    },
+    {
+      "id": 23,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "Ver.9.4 機種詳細の設定判別タブ修正。誤って未存在show()を呼んでいたv9.3の配線を撤去",
       "source": "Professional"
     }
   ]
