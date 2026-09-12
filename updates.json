@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-10T23:59:30+09:00",
+  "updated_at": "2026-09-13T03:30:00+09:00",
   "items": [
     {
       "id": 1,
@@ -56,6 +56,83 @@
       "date": "2026-09-10",
       "machine": "Professional",
       "title": "未確定でも具体値がある情報を信頼度付きで掲載する方式へ変更",
+      "source": "Professional"
+    },
+    {
+      "id": 9,
+      "date": "2026-09-11",
+      "machine": "Professional",
+      "title": "上位AT/ST後・上位CZ失敗後・駆け抜け後を状態別管理",
+      "source": "Professional"
+    },
+    {
+      "id": 10,
+      "date": "2026-09-12",
+      "machine": "Professional",
+      "title": "機械モデルEV βを追加。かぐやのチャンス目/心音/ステージ/REG連を判定へ統合",
+      "source": "Professional"
+    },
+    {
+      "id": 11,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "52機種すべてに機種別詳細条件を追加。主要機種は固有入力を判定へ接続",
+      "source": "Professional"
+    },
+    {
+      "id": 12,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "残り機種にも固有入力を展開し、からくり2/RE3/ヨルムンガンド/タコスロ等を深掘り",
+      "source": "Professional"
+    },
+    {
+      "id": 13,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "状態別ルールエンジンを追加。天井/狙い目/解除条件を機種・状態ごとに構造化し投資予測へ接続",
+      "source": "Professional"
+    },
+    {
+      "id": 14,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "状態ルールを全52機種へ展開。未解析数値は作らず、Aタイプ設定5/6比較を追加",
+      "source": "Professional"
+    },
+    {
+      "id": 15,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "一括数値化: 戦コレ6/新鬼3/東リベ/超電磁砲2/忍魂3/乙女5/化物語/ロトス/慶次/新鬼2/禁書2を状態ルールへ接続",
+      "source": "Professional"
+    },
+    {
+      "id": 16,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "Ver.8.0: 全52機種を判定モデル化。数値モデル/設定判別/算出保留を明示し、特殊状態を統合",
+      "source": "Professional"
+    },
+    {
+      "id": 17,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "設定判別タブβ追加。機種ごとに設定差がある項目だけ入力し、実G/液晶G/台内履歴の基準を分離",
+      "source": "Professional"
+    },
+    {
+      "id": 18,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "設定判別に朝イチ・カウンターモード追加。AT/CZ/小役/直撃/ゾーン母数などを＋1タップで記録",
+      "source": "Professional"
+    },
+    {
+      "id": 19,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "Ver.9.0 設定判別 全52機種専用化。朝イチカウンター、機種別母数、直撃/ゾーン系/モード系、公開設定差の一致度を統合",
       "source": "Professional"
     }
   ]
