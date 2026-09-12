@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-13T04:00:00+09:00",
+  "updated_at": "2026-09-13T04:15:00+09:00",
   "items": [
     {
       "id": 1,
@@ -147,6 +147,13 @@
       "date": "2026-09-13",
       "machine": "Professional",
       "title": "Ver.9.2 緊急修正: 起動時ReferenceError(PRO_RICH未定義)を修正",
+      "source": "Professional"
+    },
+    {
+      "id": 22,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "Ver.9.3 設定判別ボタンを新しい機種別設定判別フローへ接続",
       "source": "Professional"
     }
   ]
