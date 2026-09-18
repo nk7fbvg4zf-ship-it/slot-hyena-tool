@@ -1,9 +1,2 @@
-# Professional Ver.9.5
-設定判別タブのクリック処理を作り直しました。
-
-- `current` という暗黙グローバルへの依存を廃止
-- 各タブが現在の機種名を直接 `openM()` に渡す
-- `current` 自体も明示的に宣言
-- タブに pointer-events / z-index を明示
-- 設定判別へ切り替わると「設定判別モード」と表示
-- Ver.9.2以降の空白画面修正、52機種カウンターは維持
+# Professional Ver.9.6
+設定判別タブのクリック処理を data属性 + JSイベント直結方式へ変更。inline onclick依存を撤去。
