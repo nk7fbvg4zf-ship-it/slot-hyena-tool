@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-13T04:25:00+09:00",
+  "updated_at": "2026-09-13T04:35:00+09:00",
   "items": [
     {
       "id": 1,
@@ -161,6 +161,13 @@
       "date": "2026-09-13",
       "machine": "Professional",
       "title": "Ver.9.4 機種詳細の設定判別タブ修正。誤って未存在show()を呼んでいたv9.3の配線を撤去",
+      "source": "Professional"
+    },
+    {
+      "id": 24,
+      "date": "2026-09-13",
+      "machine": "Professional",
+      "title": "Ver.9.5 設定判別タブを完全直結化。current依存を廃止し、機種名を直接openMへ渡す方式へ変更",
       "source": "Professional"
     }
   ]
